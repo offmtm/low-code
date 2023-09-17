@@ -37,12 +37,12 @@ This is a low-code website generation platform that allows users to easily creat
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
 ```bash
-git clone https://github.com/YourGithubUsername/low-code-generator
+git clone https://github.com/offmtm/low-code
 ```
 
 ### Go into the repository
 ```bash
-cd low-code-generator
+cd low-code
 ```
 
 ### Install dependencies
